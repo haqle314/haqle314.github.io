@@ -1,1 +1,1 @@
-# Eschew Python
+- [Reposurgeon’s Excellent Journey and the Waning of Python](http://esr.ibiblio.org/?p=8161)
